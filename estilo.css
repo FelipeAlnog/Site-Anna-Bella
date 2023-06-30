@@ -18,6 +18,8 @@ h1 {
 	position: relative;
 	width: 900px;
 	justify-content: center;
+	margin-left: auto;
+	margin-rigth: auto;
 }
 
 #menu{
